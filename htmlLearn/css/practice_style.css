@@ -1,0 +1,15 @@
+.h1_1{
+ color: blue;
+ background-color: darkred;
+}
+
+
+
+.p_1{
+    font-size: 50px;
+    margin-top: 50px;
+    border:10px rgb(172, 33, 107) solid;
+    background-color: cornflowerblue;
+    color: rgb(69, 34, 114);
+}
+
